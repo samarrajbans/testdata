@@ -8,7 +8,7 @@ include "login/misc/pagehead.php";
   <?php require 'login/misc/pullnav.php'; ?>
     <div class="container">
 
-        <h2>Admin Page</h2>
+        <h2>Admin Page test   ddd</h2>
         <p>Hello, <?=$_SESSION["username"]?>!</p>
         <p>This page requires an Admin user to be logged in</p>
     </div>
